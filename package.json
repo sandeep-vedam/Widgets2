@@ -1,6 +1,6 @@
 {
   "name": "com.metrological.app.myawesomeapp",
-  "description": "Widgets2App",
+  "description": "Widgets2Application",
   "dependencies": {
     "@lightningjs/sdk": "^4.5.0"
   }
