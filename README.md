@@ -28,4 +28,4 @@ During development you can use the **watcher** functionality of the _Lightning-C
 
 #### Documentation
 
-Use `lng docs` to open up the Lightning-SDK documentation.
+Use `lng docs` to open up the Lightning-SDK documentation................
